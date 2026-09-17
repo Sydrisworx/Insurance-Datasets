@@ -1,0 +1,99 @@
+# Insurance Sales Intelligence Platform — Databricks Portfolio Project
+
+A synthetic end-to-end insurance sales data engineering project for practising Databricks, PySpark, Spark SQL, Delta Lake, dimensional modelling, Medallion Architecture and conversational analytics.
+
+## What is included
+
+- 3 years of synthetic data: **2024–2026**
+- ~158k policy-level sales transactions
+- ~95k sales-funnel activity rows
+- 30k synthetic customers
+- Calendar + July–June fiscal date dimension
+- Product, region/branch, sales team, salesperson, channel and customer dimensions
+- Product × region × month targets
+- SCD Type 2 salesperson assignment history
+- Policy cancellation/lapse events
+- Controlled data-quality defects for Silver-layer exercises
+- Bronze ingestion with Databricks Auto Loader
+- Silver cleansing/conformance in PySpark
+- Gold weekly/monthly marts and target attainment
+- SQL semantic view and example business questions
+- Starter Streamlit conversational interface
+
+## Architecture
+
+```text
+GitHub CSV source files
+        |
+        v
+Bronze Delta (raw + metadata)
+        |
+        v
+Silver Delta (cleaned + conformed + DQ flags)
+        |
+        v
+Gold marts / semantic view
+        |
+        +--> Databricks SQL / BI dashboards
+        |
+        +--> Streamlit Sales Copilot
+```
+
+## Repository layout
+
+```text
+data/dimensions/       Synthetic master data
+data/facts/            Policy sales, targets, activity and policy status
+src/bronze/            Auto Loader ingestion
+src/silver/            Cleansing and conformance
+src/gold/              Aggregations and KPI marts
+sql/ddl/               Catalog/schema creation
+sql/views/             Semantic view
+sql/analytics/         Example analytical queries
+tests/                 SQL data-quality tests
+app/                   Streamlit conversational interface
+docs/                  Data dictionary
+```
+
+## Suggested Databricks learning path
+
+1. Create a GitHub repository and push this project.
+2. Connect the repo to **Databricks Repos / Git folders**.
+3. Create Unity Catalog catalog `insurance_demo` and Bronze/Silver/Gold schemas.
+4. Upload the source CSV folders to a Unity Catalog Volume such as `/Volumes/insurance_demo/raw/source_files`.
+5. Run `src/bronze/01_ingest_csv_to_bronze.py`.
+6. Run `src/silver/02_transform_sales.py` and inspect the deliberate data-quality flags.
+7. Run `src/gold/03_build_gold_sales.py`.
+8. Run `sql/views/01_sales_semantic_view.sql` and the analytics queries.
+9. Add Databricks Workflows to orchestrate Bronze → Silver → Gold.
+10. Deploy `app/streamlit_app.py` after configuring SQL Warehouse connection environment variables.
+
+## Business questions the model supports
+
+- How much did the team sell this week/month/quarter/year?
+- Which products and regions are above or below target?
+- Who are the highest-volume salespeople by period?
+- How does FY2026 compare with FY2025?
+- Which products have the strongest YoY growth?
+- Where is quote-to-sale conversion weakening?
+- Which policies cancelled or lapsed, and what were the reasons?
+
+## Data-generation assumptions
+
+The generator uses a fixed seed (`42`) so the synthetic data is reproducible. Demand is deliberately non-random: geography, product, season, salesperson performance bands, annual growth and selected business events influence outcomes. No real customer or employee information is used.
+
+To regenerate all CSVs:
+
+```bash
+python generate_data.py
+```
+
+## Next extensions
+
+- Delta Live Tables / Lakeflow Declarative Pipelines
+- Expectations and quarantine tables
+- MERGE-based incremental SCD Type 2 processing
+- Change Data Feed
+- Unity Catalog row filters for salesperson / regional manager access
+- Databricks model serving or an LLM-backed text-to-SQL layer
+- ML model for propensity, lapse or sales forecasting
