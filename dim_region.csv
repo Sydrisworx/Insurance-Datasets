@@ -1,0 +1,31 @@
+branch_id,branch_name,region_id,region_name,province,country,market_potential_index,active_flag
+BR001,Pretoria Central Main,GP01,Pretoria Central,Gauteng,South Africa,1.298,True
+BR002,Pretoria East Main,GP02,Pretoria East,Gauteng,South Africa,1.389,True
+BR003,Johannesburg North Main,GP03,Johannesburg North,Gauteng,South Africa,1.486,True
+BR004,Johannesburg North Satellite,GP03,Johannesburg North,Gauteng,South Africa,1.411,True
+BR005,Johannesburg South Main,GP04,Johannesburg South,Gauteng,South Africa,1.189,True
+BR006,West Rand Main,GP05,West Rand,Gauteng,South Africa,1.274,True
+BR007,West Rand Satellite,GP05,West Rand,Gauteng,South Africa,1.469,True
+BR008,Cape Town City Main,WC01,Cape Town City,Western Cape,South Africa,1.301,True
+BR009,Cape Town City Satellite,WC01,Cape Town City,Western Cape,South Africa,1.18,True
+BR010,Cape Northern Suburbs Main,WC02,Cape Northern Suburbs,Western Cape,South Africa,1.215,True
+BR011,Cape Northern Suburbs Satellite,WC02,Cape Northern Suburbs,Western Cape,South Africa,1.059,True
+BR012,Cape Southern Suburbs Main,WC03,Cape Southern Suburbs,Western Cape,South Africa,1.24,True
+BR013,Winelands Main,WC04,Winelands,Western Cape,South Africa,1.151,True
+BR014,Durban Central Main,KZN01,Durban Central,KwaZulu-Natal,South Africa,1.233,True
+BR015,Durban North Main,KZN02,Durban North,KwaZulu-Natal,South Africa,1.026,True
+BR016,Pietermaritzburg Main,KZN03,Pietermaritzburg,KwaZulu-Natal,South Africa,0.981,True
+BR017,Pietermaritzburg Satellite,KZN03,Pietermaritzburg,KwaZulu-Natal,South Africa,1.014,True
+BR018,South Coast Main,KZN04,South Coast,KwaZulu-Natal,South Africa,1.189,True
+BR019,Gqeberha Main,EC01,Gqeberha,Eastern Cape,South Africa,0.981,True
+BR020,East London Main,EC02,East London,Eastern Cape,South Africa,0.832,True
+BR021,Mthatha Main,EC03,Mthatha,Eastern Cape,South Africa,0.843,True
+BR022,Bloemfontein Main,FS01,Bloemfontein,Free State,South Africa,0.805,True
+BR023,Welkom Main,FS02,Welkom,Free State,South Africa,0.745,True
+BR024,Polokwane Main,LP01,Polokwane,Limpopo,South Africa,0.714,True
+BR025,Tzaneen Main,LP02,Tzaneen,Limpopo,South Africa,0.787,True
+BR026,Mbombela Main,MP01,Mbombela,Mpumalanga,South Africa,0.781,True
+BR027,Emalahleni Main,MP02,Emalahleni,Mpumalanga,South Africa,0.881,True
+BR028,Rustenburg Main,NW01,Rustenburg,North West,South Africa,0.788,True
+BR029,Mahikeng Main,NW02,Mahikeng,North West,South Africa,0.873,True
+BR030,Kimberley Main,NC01,Kimberley,Northern Cape,South Africa,0.695,True

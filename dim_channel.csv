@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_group,conversion_factor
+CH01,Branch,Assisted,1.0
+CH02,Call Centre,Assisted,0.95
+CH03,Broker,Intermediated,1.12
+CH04,Digital,Self-Service,0.78
+CH05,Field Sales,Assisted,1.08

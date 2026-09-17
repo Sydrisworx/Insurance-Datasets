@@ -1,0 +1,15 @@
+team_id,team_name,province,home_region_id,team_type
+TM001,Gauteng Sales 1,Gauteng,GP01,Retail Sales
+TM002,Gauteng Sales 2,Gauteng,GP02,Retail Sales
+TM003,Gauteng Sales 3,Gauteng,GP03,Retail Sales
+TM004,Western Cape Sales 1,Western Cape,WC01,Retail Sales
+TM005,Western Cape Sales 2,Western Cape,WC02,Retail Sales
+TM006,KwaZulu-Natal Sales 1,KwaZulu-Natal,KZN01,Retail Sales
+TM007,KwaZulu-Natal Sales 2,KwaZulu-Natal,KZN02,Retail Sales
+TM008,Eastern Cape Sales 1,Eastern Cape,EC01,Retail Sales
+TM009,Eastern Cape Sales 2,Eastern Cape,EC02,Retail Sales
+TM010,Free State Sales 1,Free State,FS01,Retail Sales
+TM011,Limpopo Sales 1,Limpopo,LP01,Retail Sales
+TM012,Mpumalanga Sales 1,Mpumalanga,MP01,Retail Sales
+TM013,North West Sales 1,North West,NW01,Retail Sales
+TM014,Northern Cape Sales 1,Northern Cape,NC01,Retail Sales

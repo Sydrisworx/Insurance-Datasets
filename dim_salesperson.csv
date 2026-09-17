@@ -1,0 +1,161 @@
+salesperson_id,employee_number,first_name,last_name,team_id,home_region_id,province,job_title,hire_date,performance_band,performance_multiplier,employment_status,email_alias
+SP0001,EMP70001,Naledi,Mabena,TM001,GP05,Gauteng,Sales Consultant,2021-06-05,Strong,1.22,Active,sales0001@example-insurance.co.za
+SP0002,EMP70002,Mpho,Smith,TM002,GP01,Gauteng,Sales Consultant,2024-12-07,Strong,1.22,Active,sales0002@example-insurance.co.za
+SP0003,EMP70003,Thabo,Botha,TM003,GP04,Gauteng,Senior Sales Consultant,2024-07-11,Strong,1.22,Active,sales0003@example-insurance.co.za
+SP0004,EMP70004,Sarah,Naidoo,TM004,WC03,Western Cape,Sales Consultant,2022-03-20,Core,1.0,Active,sales0004@example-insurance.co.za
+SP0005,EMP70005,Sipho,Jacobs,TM005,WC02,Western Cape,Sales Consultant,2022-01-28,Strong,1.22,Active,sales0005@example-insurance.co.za
+SP0006,EMP70006,Michael,Pillay,TM006,KZN03,KwaZulu-Natal,Sales Consultant,2021-05-07,Core,1.0,Active,sales0006@example-insurance.co.za
+SP0007,EMP70007,Naledi,Mahlangu,TM007,KZN02,KwaZulu-Natal,Sales Consultant,2024-06-25,Developing,0.72,Active,sales0007@example-insurance.co.za
+SP0008,EMP70008,Sibusiso,Nkosi,TM008,EC01,Eastern Cape,Sales Consultant,2022-03-19,Strong,1.22,Active,sales0008@example-insurance.co.za
+SP0009,EMP70009,Mpho,Mabena,TM009,EC02,Eastern Cape,Sales Consultant,2024-10-01,Core,1.0,Active,sales0009@example-insurance.co.za
+SP0010,EMP70010,Sarah,Mabena,TM010,FS01,Free State,Senior Sales Consultant,2023-03-20,Strong,1.22,Active,sales0010@example-insurance.co.za
+SP0011,EMP70011,Neo,Dlamini,TM011,LP01,Limpopo,Senior Sales Consultant,2022-05-29,Developing,0.72,Active,sales0011@example-insurance.co.za
+SP0012,EMP70012,Palesa,Adams,TM012,MP02,Mpumalanga,Sales Consultant,2024-01-20,Core,1.0,Active,sales0012@example-insurance.co.za
+SP0013,EMP70013,Jason,Khumalo,TM013,NW01,North West,Sales Consultant,2023-03-07,Core,1.0,Active,sales0013@example-insurance.co.za
+SP0014,EMP70014,Bongani,Patel,TM014,NC01,Northern Cape,Sales Consultant,2023-12-30,Core,1.0,Active,sales0014@example-insurance.co.za
+SP0015,EMP70015,Grace,Maseko,TM002,GP04,Gauteng,Sales Consultant,2022-06-27,Strong,1.22,Active,sales0015@example-insurance.co.za
+SP0016,EMP70016,Zanele,Williams,TM011,LP02,Limpopo,Sales Consultant,2025-03-31,Strong,1.22,Active,sales0016@example-insurance.co.za
+SP0017,EMP70017,Nomsa,Dlamini,TM007,KZN02,KwaZulu-Natal,Sales Consultant,2021-05-07,Strong,1.22,Active,sales0017@example-insurance.co.za
+SP0018,EMP70018,Lebo,Khumalo,TM011,LP01,Limpopo,Senior Sales Consultant,2022-05-05,Core,1.0,Active,sales0018@example-insurance.co.za
+SP0019,EMP70019,Amy,Mahlangu,TM012,MP02,Mpumalanga,Sales Consultant,2023-02-28,Core,1.0,Active,sales0019@example-insurance.co.za
+SP0020,EMP70020,Michael,Mabena,TM002,GP04,Gauteng,Sales Consultant,2023-11-06,Developing,0.72,Active,sales0020@example-insurance.co.za
+SP0021,EMP70021,Naledi,Jacobs,TM001,GP01,Gauteng,Sales Consultant,2021-10-29,Developing,0.72,Active,sales0021@example-insurance.co.za
+SP0022,EMP70022,Kevin,Pillay,TM012,MP01,Mpumalanga,Sales Consultant,2021-09-30,Elite,1.48,Active,sales0022@example-insurance.co.za
+SP0023,EMP70023,Thabo,Mabena,TM005,WC02,Western Cape,Senior Sales Consultant,2022-04-17,Elite,1.48,Active,sales0023@example-insurance.co.za
+SP0024,EMP70024,Jason,Maseko,TM001,GP03,Gauteng,Sales Consultant,2021-05-13,Core,1.0,Active,sales0024@example-insurance.co.za
+SP0025,EMP70025,Karabo,Patel,TM014,NC01,Northern Cape,Sales Consultant,2023-05-18,Core,1.0,Active,sales0025@example-insurance.co.za
+SP0026,EMP70026,Palesa,Mthembu,TM005,WC04,Western Cape,Insurance Advisor,2024-09-21,Developing,0.72,Active,sales0026@example-insurance.co.za
+SP0027,EMP70027,Naledi,Dlamini,TM008,EC02,Eastern Cape,Sales Consultant,2021-08-13,Core,1.0,Active,sales0027@example-insurance.co.za
+SP0028,EMP70028,Refilwe,Adams,TM010,FS02,Free State,Sales Consultant,2022-01-26,Strong,1.22,Active,sales0028@example-insurance.co.za
+SP0029,EMP70029,Zanele,Nkosi,TM009,EC01,Eastern Cape,Sales Consultant,2025-01-05,Core,1.0,Active,sales0029@example-insurance.co.za
+SP0030,EMP70030,Daniel,Patel,TM008,EC01,Eastern Cape,Insurance Advisor,2022-05-11,Strong,1.22,Active,sales0030@example-insurance.co.za
+SP0031,EMP70031,David,Ndlovu,TM009,EC03,Eastern Cape,Sales Consultant,2022-04-11,Core,1.0,Active,sales0031@example-insurance.co.za
+SP0032,EMP70032,Lerato,Patel,TM014,NC01,Northern Cape,Insurance Advisor,2023-05-04,Core,1.0,Active,sales0032@example-insurance.co.za
+SP0033,EMP70033,Michael,Molefe,TM014,NC01,Northern Cape,Sales Consultant,2021-05-26,Strong,1.22,Active,sales0033@example-insurance.co.za
+SP0034,EMP70034,Naledi,Mahlangu,TM013,NW02,North West,Sales Consultant,2023-01-22,Strong,1.22,Active,sales0034@example-insurance.co.za
+SP0035,EMP70035,Nandi,Ndlovu,TM013,NW01,North West,Sales Consultant,2021-06-01,Strong,1.22,Active,sales0035@example-insurance.co.za
+SP0036,EMP70036,Sipho,Daniels,TM014,NC01,Northern Cape,Sales Consultant,2021-02-21,Strong,1.22,Active,sales0036@example-insurance.co.za
+SP0037,EMP70037,Tumi,Nkosi,TM003,GP01,Gauteng,Sales Consultant,2022-08-11,Strong,1.22,Active,sales0037@example-insurance.co.za
+SP0038,EMP70038,Karabo,Naidoo,TM014,NC01,Northern Cape,Sales Consultant,2024-05-28,Elite,1.48,Active,sales0038@example-insurance.co.za
+SP0039,EMP70039,Mpho,Dlamini,TM014,NC01,Northern Cape,Sales Consultant,2021-01-23,Core,1.0,Active,sales0039@example-insurance.co.za
+SP0040,EMP70040,David,Jacobs,TM014,NC01,Northern Cape,Sales Consultant,2021-07-14,Core,1.0,Active,sales0040@example-insurance.co.za
+SP0041,EMP70041,Thabo,Williams,TM006,KZN01,KwaZulu-Natal,Sales Consultant,2021-11-16,Strong,1.22,Active,sales0041@example-insurance.co.za
+SP0042,EMP70042,Sipho,Mokoena,TM011,LP01,Limpopo,Sales Consultant,2022-11-26,Elite,1.48,Active,sales0042@example-insurance.co.za
+SP0043,EMP70043,Naledi,Patel,TM002,GP03,Gauteng,Insurance Advisor,2023-02-21,Strong,1.22,Active,sales0043@example-insurance.co.za
+SP0044,EMP70044,Thabo,Dlamini,TM005,WC03,Western Cape,Sales Consultant,2023-03-10,Core,1.0,Active,sales0044@example-insurance.co.za
+SP0045,EMP70045,Thabo,Patel,TM011,LP01,Limpopo,Insurance Advisor,2021-08-13,Core,1.0,Active,sales0045@example-insurance.co.za
+SP0046,EMP70046,Daniel,Smith,TM009,EC03,Eastern Cape,Sales Consultant,2024-03-27,Core,1.0,Active,sales0046@example-insurance.co.za
+SP0047,EMP70047,Zanele,Botha,TM010,FS01,Free State,Sales Consultant,2021-06-24,Strong,1.22,Active,sales0047@example-insurance.co.za
+SP0048,EMP70048,Bongani,Botha,TM004,WC03,Western Cape,Sales Consultant,2024-05-09,Strong,1.22,Active,sales0048@example-insurance.co.za
+SP0049,EMP70049,Sipho,Jacobs,TM002,GP05,Gauteng,Sales Consultant,2022-08-22,Core,1.0,Active,sales0049@example-insurance.co.za
+SP0050,EMP70050,Zanele,Patel,TM013,NW02,North West,Senior Sales Consultant,2023-04-30,Core,1.0,Active,sales0050@example-insurance.co.za
+SP0051,EMP70051,Karabo,Pillay,TM014,NC01,Northern Cape,Sales Consultant,2021-06-18,Developing,0.72,Active,sales0051@example-insurance.co.za
+SP0052,EMP70052,David,Dlamini,TM003,GP05,Gauteng,Sales Consultant,2024-08-12,Core,1.0,Active,sales0052@example-insurance.co.za
+SP0053,EMP70053,Mpho,Maseko,TM013,NW01,North West,Sales Consultant,2021-09-07,Core,1.0,Active,sales0053@example-insurance.co.za
+SP0054,EMP70054,Daniel,Mokoena,TM010,FS01,Free State,Senior Sales Consultant,2021-03-30,Core,1.0,Active,sales0054@example-insurance.co.za
+SP0055,EMP70055,Nandi,Patel,TM009,EC02,Eastern Cape,Senior Sales Consultant,2024-07-08,Core,1.0,Active,sales0055@example-insurance.co.za
+SP0056,EMP70056,Karabo,Khumalo,TM012,MP02,Mpumalanga,Sales Consultant,2024-09-23,Developing,0.72,Active,sales0056@example-insurance.co.za
+SP0057,EMP70057,Tumi,Ndlovu,TM004,WC01,Western Cape,Sales Consultant,2023-10-26,Core,1.0,Active,sales0057@example-insurance.co.za
+SP0058,EMP70058,Nomsa,Van Wyk,TM013,NW01,North West,Insurance Advisor,2023-04-19,Developing,0.72,Active,sales0058@example-insurance.co.za
+SP0059,EMP70059,Nomsa,Van Wyk,TM001,GP05,Gauteng,Insurance Advisor,2024-01-09,Strong,1.22,Active,sales0059@example-insurance.co.za
+SP0060,EMP70060,Bongani,Smith,TM005,WC03,Western Cape,Sales Consultant,2024-07-07,Strong,1.22,Active,sales0060@example-insurance.co.za
+SP0061,EMP70061,Lebo,Patel,TM011,LP02,Limpopo,Sales Consultant,2024-08-14,Core,1.0,Active,sales0061@example-insurance.co.za
+SP0062,EMP70062,Zanele,Ndlovu,TM011,LP01,Limpopo,Sales Consultant,2022-09-09,Core,1.0,Active,sales0062@example-insurance.co.za
+SP0063,EMP70063,Sibusiso,Mahlangu,TM002,GP02,Gauteng,Sales Consultant,2021-09-22,Core,1.0,Active,sales0063@example-insurance.co.za
+SP0064,EMP70064,Neo,Jacobs,TM011,LP01,Limpopo,Insurance Advisor,2022-06-08,Core,1.0,Active,sales0064@example-insurance.co.za
+SP0065,EMP70065,David,Botha,TM005,WC02,Western Cape,Sales Consultant,2023-12-10,Core,1.0,Active,sales0065@example-insurance.co.za
+SP0066,EMP70066,Kagiso,Van Wyk,TM014,NC01,Northern Cape,Sales Consultant,2024-09-19,Strong,1.22,Active,sales0066@example-insurance.co.za
+SP0067,EMP70067,Neo,Williams,TM011,LP01,Limpopo,Senior Sales Consultant,2023-10-10,Core,1.0,Active,sales0067@example-insurance.co.za
+SP0068,EMP70068,Priya,Patel,TM003,GP04,Gauteng,Sales Consultant,2023-03-17,Developing,0.72,Active,sales0068@example-insurance.co.za
+SP0069,EMP70069,Anele,Adams,TM009,EC03,Eastern Cape,Insurance Advisor,2024-03-07,Developing,0.72,Active,sales0069@example-insurance.co.za
+SP0070,EMP70070,Daniel,Mabena,TM002,GP04,Gauteng,Senior Sales Consultant,2021-09-29,Core,1.0,Active,sales0070@example-insurance.co.za
+SP0071,EMP70071,Amy,Pillay,TM014,NC01,Northern Cape,Sales Consultant,2025-02-22,Core,1.0,Active,sales0071@example-insurance.co.za
+SP0072,EMP70072,Sipho,Pillay,TM008,EC01,Eastern Cape,Sales Consultant,2023-09-13,Core,1.0,Active,sales0072@example-insurance.co.za
+SP0073,EMP70073,Anele,Adams,TM009,EC03,Eastern Cape,Sales Consultant,2023-12-23,Strong,1.22,Active,sales0073@example-insurance.co.za
+SP0074,EMP70074,Priya,Dlamini,TM004,WC04,Western Cape,Sales Consultant,2023-08-18,Elite,1.48,Active,sales0074@example-insurance.co.za
+SP0075,EMP70075,Refilwe,Adams,TM002,GP04,Gauteng,Sales Consultant,2023-02-21,Core,1.0,Active,sales0075@example-insurance.co.za
+SP0076,EMP70076,Daniel,Botha,TM011,LP02,Limpopo,Sales Consultant,2022-06-18,Strong,1.22,Active,sales0076@example-insurance.co.za
+SP0077,EMP70077,Naledi,Patel,TM004,WC01,Western Cape,Insurance Advisor,2023-05-02,Core,1.0,Active,sales0077@example-insurance.co.za
+SP0078,EMP70078,Sipho,Williams,TM008,EC01,Eastern Cape,Insurance Advisor,2022-12-02,Core,1.0,Active,sales0078@example-insurance.co.za
+SP0079,EMP70079,Sarah,Dlamini,TM008,EC02,Eastern Cape,Insurance Advisor,2022-08-01,Core,1.0,Active,sales0079@example-insurance.co.za
+SP0080,EMP70080,Sibusiso,Dlamini,TM001,GP02,Gauteng,Sales Consultant,2024-02-23,Elite,1.48,Active,sales0080@example-insurance.co.za
+SP0081,EMP70081,Sipho,Nkosi,TM012,MP02,Mpumalanga,Sales Consultant,2021-07-16,Core,1.0,Active,sales0081@example-insurance.co.za
+SP0082,EMP70082,Sibusiso,Ndlovu,TM002,GP05,Gauteng,Sales Consultant,2022-12-28,Strong,1.22,Active,sales0082@example-insurance.co.za
+SP0083,EMP70083,Naledi,Williams,TM007,KZN04,KwaZulu-Natal,Sales Consultant,2021-01-20,Strong,1.22,Active,sales0083@example-insurance.co.za
+SP0084,EMP70084,Jason,Ndlovu,TM006,KZN04,KwaZulu-Natal,Sales Consultant,2025-05-15,Strong,1.22,Active,sales0084@example-insurance.co.za
+SP0085,EMP70085,Kevin,Dlamini,TM012,MP02,Mpumalanga,Sales Consultant,2023-12-02,Strong,1.22,Active,sales0085@example-insurance.co.za
+SP0086,EMP70086,Zanele,Molefe,TM010,FS01,Free State,Senior Sales Consultant,2024-12-06,Developing,0.72,Active,sales0086@example-insurance.co.za
+SP0087,EMP70087,Neo,Ndlovu,TM003,GP04,Gauteng,Sales Consultant,2024-07-17,Strong,1.22,Active,sales0087@example-insurance.co.za
+SP0088,EMP70088,Daniel,Smith,TM001,GP05,Gauteng,Sales Consultant,2021-01-09,Developing,0.72,Active,sales0088@example-insurance.co.za
+SP0089,EMP70089,Priya,Jacobs,TM012,MP02,Mpumalanga,Insurance Advisor,2022-04-06,Developing,0.72,Active,sales0089@example-insurance.co.za
+SP0090,EMP70090,Daniel,Van Wyk,TM002,GP03,Gauteng,Sales Consultant,2024-05-20,Strong,1.22,Active,sales0090@example-insurance.co.za
+SP0091,EMP70091,Sipho,Naidoo,TM001,GP04,Gauteng,Sales Consultant,2021-07-01,Core,1.0,Active,sales0091@example-insurance.co.za
+SP0092,EMP70092,Daniel,Williams,TM002,GP01,Gauteng,Sales Consultant,2024-09-23,Core,1.0,Active,sales0092@example-insurance.co.za
+SP0093,EMP70093,Amy,Williams,TM003,GP04,Gauteng,Sales Consultant,2021-06-09,Elite,1.48,Active,sales0093@example-insurance.co.za
+SP0094,EMP70094,Kagiso,Daniels,TM001,GP03,Gauteng,Sales Consultant,2023-09-14,Developing,0.72,Active,sales0094@example-insurance.co.za
+SP0095,EMP70095,Nomsa,Mthembu,TM010,FS02,Free State,Sales Consultant,2022-08-17,Core,1.0,Active,sales0095@example-insurance.co.za
+SP0096,EMP70096,Aisha,Pillay,TM008,EC02,Eastern Cape,Insurance Advisor,2024-06-08,Core,1.0,Active,sales0096@example-insurance.co.za
+SP0097,EMP70097,Naledi,Naidoo,TM003,GP04,Gauteng,Sales Consultant,2023-05-17,Core,1.0,Active,sales0097@example-insurance.co.za
+SP0098,EMP70098,Palesa,Naidoo,TM007,KZN03,KwaZulu-Natal,Sales Consultant,2025-02-13,Developing,0.72,Active,sales0098@example-insurance.co.za
+SP0099,EMP70099,Sipho,Adams,TM006,KZN02,KwaZulu-Natal,Sales Consultant,2021-07-26,Developing,0.72,Active,sales0099@example-insurance.co.za
+SP0100,EMP70100,Sibusiso,Smith,TM009,EC03,Eastern Cape,Sales Consultant,2022-11-16,Core,1.0,Active,sales0100@example-insurance.co.za
+SP0101,EMP70101,Kagiso,Smith,TM006,KZN02,KwaZulu-Natal,Sales Consultant,2024-09-06,Core,1.0,Active,sales0101@example-insurance.co.za
+SP0102,EMP70102,Ayanda,Molefe,TM005,WC01,Western Cape,Sales Consultant,2022-11-01,Core,1.0,Active,sales0102@example-insurance.co.za
+SP0103,EMP70103,Amy,Pillay,TM009,EC02,Eastern Cape,Sales Consultant,2023-08-02,Core,1.0,Active,sales0103@example-insurance.co.za
+SP0104,EMP70104,Neo,Mabena,TM004,WC03,Western Cape,Sales Consultant,2024-06-13,Core,1.0,Active,sales0104@example-insurance.co.za
+SP0105,EMP70105,Anele,Pillay,TM009,EC03,Eastern Cape,Insurance Advisor,2025-03-19,Strong,1.22,Active,sales0105@example-insurance.co.za
+SP0106,EMP70106,Mpho,Botha,TM012,MP01,Mpumalanga,Senior Sales Consultant,2023-03-17,Core,1.0,Active,sales0106@example-insurance.co.za
+SP0107,EMP70107,Karabo,Mokoena,TM005,WC01,Western Cape,Senior Sales Consultant,2022-09-07,Developing,0.72,Active,sales0107@example-insurance.co.za
+SP0108,EMP70108,Lebo,Mahlangu,TM012,MP01,Mpumalanga,Sales Consultant,2021-03-30,Core,1.0,Active,sales0108@example-insurance.co.za
+SP0109,EMP70109,Michael,Mabena,TM003,GP05,Gauteng,Senior Sales Consultant,2021-04-17,Developing,0.72,Active,sales0109@example-insurance.co.za
+SP0110,EMP70110,Zanele,Smith,TM006,KZN03,KwaZulu-Natal,Sales Consultant,2022-08-19,Core,1.0,Active,sales0110@example-insurance.co.za
+SP0111,EMP70111,Grace,Mabena,TM002,GP04,Gauteng,Sales Consultant,2023-03-14,Elite,1.48,Active,sales0111@example-insurance.co.za
+SP0112,EMP70112,Michael,Mthembu,TM011,LP02,Limpopo,Sales Consultant,2024-01-06,Strong,1.22,Active,sales0112@example-insurance.co.za
+SP0113,EMP70113,Kagiso,Maseko,TM009,EC01,Eastern Cape,Sales Consultant,2023-12-16,Core,1.0,Active,sales0113@example-insurance.co.za
+SP0114,EMP70114,Grace,Pillay,TM006,KZN01,KwaZulu-Natal,Insurance Advisor,2024-08-31,Elite,1.48,Active,sales0114@example-insurance.co.za
+SP0115,EMP70115,Ayanda,Van Wyk,TM012,MP01,Mpumalanga,Sales Consultant,2023-11-08,Core,1.0,Active,sales0115@example-insurance.co.za
+SP0116,EMP70116,Karabo,Maseko,TM012,MP02,Mpumalanga,Sales Consultant,2024-04-23,Core,1.0,Active,sales0116@example-insurance.co.za
+SP0117,EMP70117,David,Smith,TM003,GP02,Gauteng,Sales Consultant,2022-01-26,Developing,0.72,Active,sales0117@example-insurance.co.za
+SP0118,EMP70118,Amy,Maseko,TM003,GP01,Gauteng,Sales Consultant,2023-02-24,Core,1.0,Active,sales0118@example-insurance.co.za
+SP0119,EMP70119,Priya,Pillay,TM002,GP04,Gauteng,Sales Consultant,2024-09-06,Core,1.0,Active,sales0119@example-insurance.co.za
+SP0120,EMP70120,Amy,Mthembu,TM012,MP02,Mpumalanga,Sales Consultant,2024-05-05,Developing,0.72,Active,sales0120@example-insurance.co.za
+SP0121,EMP70121,Priya,Naidoo,TM008,EC03,Eastern Cape,Senior Sales Consultant,2025-01-30,Core,1.0,Active,sales0121@example-insurance.co.za
+SP0122,EMP70122,Naledi,Pillay,TM006,KZN01,KwaZulu-Natal,Sales Consultant,2023-03-19,Strong,1.22,Active,sales0122@example-insurance.co.za
+SP0123,EMP70123,Karabo,Naidoo,TM012,MP01,Mpumalanga,Sales Consultant,2023-07-22,Core,1.0,Active,sales0123@example-insurance.co.za
+SP0124,EMP70124,Nandi,Khumalo,TM014,NC01,Northern Cape,Sales Consultant,2025-01-07,Core,1.0,Active,sales0124@example-insurance.co.za
+SP0125,EMP70125,Bongani,Adams,TM005,WC03,Western Cape,Sales Consultant,2021-11-03,Developing,0.72,Active,sales0125@example-insurance.co.za
+SP0126,EMP70126,Tumi,Mabena,TM007,KZN02,KwaZulu-Natal,Senior Sales Consultant,2021-08-16,Developing,0.72,Active,sales0126@example-insurance.co.za
+SP0127,EMP70127,Daniel,Smith,TM008,EC03,Eastern Cape,Senior Sales Consultant,2023-10-12,Elite,1.48,Active,sales0127@example-insurance.co.za
+SP0128,EMP70128,David,Ndlovu,TM007,KZN04,KwaZulu-Natal,Senior Sales Consultant,2023-11-08,Strong,1.22,Active,sales0128@example-insurance.co.za
+SP0129,EMP70129,Anele,Williams,TM007,KZN04,KwaZulu-Natal,Sales Consultant,2024-10-18,Developing,0.72,Active,sales0129@example-insurance.co.za
+SP0130,EMP70130,Refilwe,Dlamini,TM007,KZN04,KwaZulu-Natal,Sales Consultant,2025-03-19,Elite,1.48,Active,sales0130@example-insurance.co.za
+SP0131,EMP70131,Refilwe,Mahlangu,TM012,MP01,Mpumalanga,Sales Consultant,2024-03-20,Strong,1.22,Active,sales0131@example-insurance.co.za
+SP0132,EMP70132,Sarah,Daniels,TM002,GP05,Gauteng,Sales Consultant,2023-03-25,Core,1.0,Active,sales0132@example-insurance.co.za
+SP0133,EMP70133,Nomsa,Botha,TM005,WC03,Western Cape,Sales Consultant,2025-04-14,Core,1.0,Active,sales0133@example-insurance.co.za
+SP0134,EMP70134,Daniel,Mabena,TM002,GP05,Gauteng,Sales Consultant,2023-05-15,Elite,1.48,Active,sales0134@example-insurance.co.za
+SP0135,EMP70135,Nandi,Dlamini,TM001,GP05,Gauteng,Senior Sales Consultant,2022-08-20,Developing,0.72,Active,sales0135@example-insurance.co.za
+SP0136,EMP70136,Sarah,Williams,TM010,FS02,Free State,Senior Sales Consultant,2023-11-18,Strong,1.22,Active,sales0136@example-insurance.co.za
+SP0137,EMP70137,Sipho,Smith,TM006,KZN01,KwaZulu-Natal,Sales Consultant,2021-03-20,Core,1.0,Active,sales0137@example-insurance.co.za
+SP0138,EMP70138,Anele,Naidoo,TM013,NW01,North West,Sales Consultant,2025-03-03,Strong,1.22,Active,sales0138@example-insurance.co.za
+SP0139,EMP70139,Zanele,Molefe,TM010,FS01,Free State,Sales Consultant,2024-12-04,Strong,1.22,Active,sales0139@example-insurance.co.za
+SP0140,EMP70140,Priya,Williams,TM012,MP02,Mpumalanga,Sales Consultant,2024-06-01,Core,1.0,Active,sales0140@example-insurance.co.za
+SP0141,EMP70141,Priya,Khumalo,TM002,GP04,Gauteng,Sales Consultant,2022-03-16,Strong,1.22,Active,sales0141@example-insurance.co.za
+SP0142,EMP70142,Amy,Naidoo,TM002,GP05,Gauteng,Sales Consultant,2022-12-21,Strong,1.22,Active,sales0142@example-insurance.co.za
+SP0143,EMP70143,Sipho,Pillay,TM011,LP01,Limpopo,Senior Sales Consultant,2022-10-15,Developing,0.72,Active,sales0143@example-insurance.co.za
+SP0144,EMP70144,Tumi,Maseko,TM014,NC01,Northern Cape,Sales Consultant,2024-03-21,Core,1.0,Active,sales0144@example-insurance.co.za
+SP0145,EMP70145,Ayanda,Mokoena,TM013,NW01,North West,Sales Consultant,2022-07-05,Core,1.0,Active,sales0145@example-insurance.co.za
+SP0146,EMP70146,Grace,Smith,TM008,EC03,Eastern Cape,Sales Consultant,2021-01-29,Core,1.0,Active,sales0146@example-insurance.co.za
+SP0147,EMP70147,Grace,Naidoo,TM005,WC03,Western Cape,Sales Consultant,2024-11-20,Strong,1.22,Active,sales0147@example-insurance.co.za
+SP0148,EMP70148,Lebo,Mahlangu,TM005,WC04,Western Cape,Sales Consultant,2024-12-06,Core,1.0,Active,sales0148@example-insurance.co.za
+SP0149,EMP70149,Michael,Smith,TM013,NW02,North West,Sales Consultant,2025-04-24,Core,1.0,Active,sales0149@example-insurance.co.za
+SP0150,EMP70150,Neo,Khumalo,TM012,MP01,Mpumalanga,Sales Consultant,2022-01-22,Core,1.0,Active,sales0150@example-insurance.co.za
+SP0151,EMP70151,Lebo,Pillay,TM013,NW02,North West,Sales Consultant,2021-04-08,Strong,1.22,Active,sales0151@example-insurance.co.za
+SP0152,EMP70152,Tumi,Jacobs,TM013,NW01,North West,Insurance Advisor,2023-02-02,Elite,1.48,Active,sales0152@example-insurance.co.za
+SP0153,EMP70153,Sarah,Khumalo,TM012,MP02,Mpumalanga,Sales Consultant,2022-03-04,Core,1.0,Active,sales0153@example-insurance.co.za
+SP0154,EMP70154,Sarah,Naidoo,TM006,KZN04,KwaZulu-Natal,Sales Consultant,2023-11-11,Elite,1.48,Active,sales0154@example-insurance.co.za
+SP0155,EMP70155,Grace,Ndlovu,TM007,KZN01,KwaZulu-Natal,Sales Consultant,2025-02-09,Developing,0.72,Active,sales0155@example-insurance.co.za
+SP0156,EMP70156,Zanele,Naidoo,TM009,EC03,Eastern Cape,Sales Consultant,2021-04-15,Core,1.0,Active,sales0156@example-insurance.co.za
+SP0157,EMP70157,Sipho,Botha,TM005,WC01,Western Cape,Senior Sales Consultant,2024-09-25,Core,1.0,Active,sales0157@example-insurance.co.za
+SP0158,EMP70158,Karabo,Mthembu,TM007,KZN01,KwaZulu-Natal,Sales Consultant,2021-11-28,Core,1.0,Active,sales0158@example-insurance.co.za
+SP0159,EMP70159,Sipho,Khumalo,TM006,KZN01,KwaZulu-Natal,Sales Consultant,2022-04-09,Strong,1.22,Active,sales0159@example-insurance.co.za
+SP0160,EMP70160,Sibusiso,Mabena,TM004,WC03,Western Cape,Senior Sales Consultant,2023-02-23,Core,1.0,Active,sales0160@example-insurance.co.za
